@@ -49,5 +49,5 @@ The following 10 models are compared:
 ## 📈 Output Example
 
 ```bash
-Test Accuracy: 0.75
+Test Accuracy: 0.4
 Prediction for Day=Windy, Temp=Cool: Not Play
